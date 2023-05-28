@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+}
+
+a {
+    text-decoration: none;
+}
+
+codemao {
+    color: rgb(183, 193, 204);
+    font-family: mojangles;
+    font-size: 30px;
+}
+
+codemao:hover {
+    color: rgb(183, 193, 204);
+    font-family: mojangles;
+    font-size: 30px;
+    background-color: rgb(94, 147, 178);
+}
+
+codemao1 {
+    color: rgb(183, 193, 204);
+    font-family: mojangles;
+    font-size: 15px;
+}
+
+codemao1:hover {
+    color: rgb(183, 193, 204);
+    font-family: mojangles;
+    font-size: 15px;
+    background-color: rgb(94, 147, 178);
+}
+
+codemao2 {
+    color: rgb(0, 0, 0);
+    font-family: mojangles;
+    font-size: 15px;
+}
+
+codemao2:hover {
+    color: rgb(124, 187, 255);
+    font-family: mojangles;
+    font-size: 15px;
+}
+
+.header {
+    background-color: rgb(101, 141, 215);
+    width: 100%;
+}
+
+.headerIndex {
+    display: flex;
+    align-items: center;
+}
